@@ -1,6 +1,8 @@
 # Awesome TypeScript
 📚  A collection of awesome TypeScript tools, projects and resources 😎 
 
+[TypeScript](http://www.typescriptlang.org/) is a language for application-scale JavaScript development. It's a typed superset of JavaScript that compiles to plain JavaScript. TypeScript compiles to clean, simple JavaScript code which runs on any browser, in Node.js, or in any JavaScript engine that supports ECMAScript 3 (or newer).
+
 ## Contents
 
 - [Resources](#resources)
