@@ -13,6 +13,7 @@
 
 ### Community
 
+- [Github](https://github.com/Microsoft/TypeScript)
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/typescript)
 - [Gitter](https://gitter.im/Microsoft/TypeScript)
 - [Twitter](https://twitter.com/typescriptlang)
