@@ -7,6 +7,7 @@
 
 - [Resources](#resources)
 	- [Community](#community)
+- [Contribution](#contribution)
 
 
 ## Resources
@@ -19,6 +20,12 @@
 - [Twitter](https://twitter.com/typescriptlang)
 - [TypeScript Blog](https://blogs.msdn.microsoft.com/typescript)
 
+
+## Contribution
+
+Please read the [contribution guidelines](./contributing.md) to get started.
+
+:star: Suggestions and PRs are welcome! :star:
 
 ## License
 
