@@ -6,11 +6,16 @@
 ## Contents
 
 - [Resources](#resources)
+	- [Tutorials](#tutorials)
 	- [Community](#community)
 - [Contribution](#contribution)
 
 
 ## Resources
+
+### Tutorials
+
+- [Writing a Node.js module in TypeScript](https://www.twilio.com/blog/2017/06/writing-a-node-module-in-typescript.html)
 
 ### Community
 
